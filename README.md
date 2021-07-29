@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 <div>
-  ![Snake animation](https://github.com/Llocus/Llocus/blob/output/github-contribution-grid-snake.svg)
- </div>
+   ![Snake animation](https://github.com/Llocus/Llocus/blob/output/dist/github-contribution-grid-snake.svg)
+</div>
+
